@@ -1,6 +1,6 @@
 // Easy setup for ajax post cabailities from Django apps
 // @author Maxwell Folley maxwell@weareflavor.com
-// $.djangoAjax();
+// $.csrftoken();
 (function() {
 
     var methods = {
